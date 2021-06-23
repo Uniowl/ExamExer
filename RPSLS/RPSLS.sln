@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RPSLS", "RPSLS\RPSLS.fsproj", "{389BBA13-45DD-4BE5-9D3A-0EC43699413E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389BBA13-45DD-4BE5-9D3A-0EC43699413E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389BBA13-45DD-4BE5-9D3A-0EC43699413E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389BBA13-45DD-4BE5-9D3A-0EC43699413E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389BBA13-45DD-4BE5-9D3A-0EC43699413E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

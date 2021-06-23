@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6iQZiP1Zfhj2z297TH+/zfid9EyFApaw3MihOMRyH5s72oIu7wo1JcB+qEpxTxhT4dXS1YcCCYPPYfknLm4dnw==",
+  "success": true,
+  "projectFilePath": "/Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/SmoosedMorseCode/SmoosedMorseCode.fsproj",
+  "expectedPackageFiles": [
+    "/Users/alexandermolholm/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

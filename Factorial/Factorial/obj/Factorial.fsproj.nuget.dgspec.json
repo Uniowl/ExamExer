@@ -43,6 +43,11 @@
               "target": "Package",
               "version": "[3.13.2, )",
               "generatePathProperty": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "generatePathProperty": true
             }
           },
           "imports": [

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1fv2dh7VvqIF5clevYgDwD1d7SdY+zhnPsQmonDcR1EgR/dz0f+rasVLqBK6bL7NYvKJ+kJeIh+WPVUljkufQ==",
+  "success": true,
+  "projectFilePath": "/Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/RPSLS/RPSLS/RPSLS.fsproj",
+  "expectedPackageFiles": [
+    "/Users/alexandermolholm/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
