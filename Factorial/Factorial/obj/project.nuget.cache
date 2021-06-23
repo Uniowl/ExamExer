@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SUgxzMfi+3nlwgA38qGMUSHEL0y60lrYzsQNcVPqkLoLjkuKXBI3e8HD11JlpdUEx0jDxFV7m+4CG87WpeUJxQ==",
+  "success": true,
+  "projectFilePath": "/Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/Factorial/Factorial/Factorial.fsproj",
+  "expectedPackageFiles": [
+    "/Users/alexandermolholm/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512",
+    "/Users/alexandermolholm/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/alexandermolholm/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/alexandermolholm/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}

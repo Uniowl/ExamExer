@@ -1,8 +1,5 @@
 ﻿// Learn more about F# at http://docs.microsoft.com/dotnet/fsharp
 
-open System
-open System.Collections
-
 // Define a function to construct a message to print
 let smorse str =
     let mutable encoding = ""
@@ -87,9 +84,10 @@ let recSmorse (string: string) =
 let readLines filePath = System.IO.File.ReadLines(filePath);;
 
 [<EntryPoint>]
-let main argv =
+let main =
     let words = readLines "/Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/SmoosedMorseCode/enable.txt"
     let keyAndValue = Seq.countBy recSmorse words
+    
     let mutable magicCode = ""
     for i in keyAndValue do
         if ((snd i) = 13) then do
@@ -97,8 +95,8 @@ let main argv =
     
     printfn "MAGIC CODE: %A" magicCode
     
-    printfn "WORDS THAT  CAN BE ENCODED TO MAGIC CODE: "
-    for word in  (Seq.filter (fun w -> smorse w = magicCode) words) do
+    printfn "WORDS THAT CAN BE ENCODED TO MAGIC CODE: "
+    for word in  (Seq.filter (fun w -> recSmorse w = magicCode) words) do
         printfn "%A" word
     
     0
