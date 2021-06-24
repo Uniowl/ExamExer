@@ -42,7 +42,7 @@ let compChoiceSmart (rnd: Random) mm  =
     let MostCommonActions = getMostCommonActions mm
     let allCounterActions = getCounterActionList  MostCommonActions
     let bestCounterActions = getMostCommonActions (MoveMemory(List.countBy (fun x -> x) allCounterActions))
-    let compChoice = rnd.Next(0,(List.length (bestCounterActions)))
+    let compChoice = rnd.Next(0,(List.length bestCounterActions))
     //This print will help the player:
     printf $"\n\"I SEE YOU LIKE TO USE {MostCommonActions}. MAYBE I SHOULD PICK {bestCounterActions}\""
     bestCounterActions.[compChoice]

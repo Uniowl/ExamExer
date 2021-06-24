@@ -29,6 +29,8 @@
     <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">/Users/alexandermolholm/.nuget/packages/newtonsoft.json/9.0.1</PkgNewtonsoft_Json>
     <PkgMicrosoft_NET_Test_Sdk Condition=" '$(PkgMicrosoft_NET_Test_Sdk)' == '' ">/Users/alexandermolholm/.nuget/packages/microsoft.net.test.sdk/16.7.1</PkgMicrosoft_NET_Test_Sdk>
     <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/Users/alexandermolholm/.nuget/packages/fsharp.core/5.0.0</PkgFSharp_Core>
+    <PkgFsCheck Condition=" '$(PkgFsCheck)' == '' ">/Users/alexandermolholm/.nuget/packages/fscheck/3.0.0-alpha5</PkgFsCheck>
+    <PkgFsCheck_Xunit Condition=" '$(PkgFsCheck_Xunit)' == '' ">/Users/alexandermolholm/.nuget/packages/fscheck.xunit/3.0.0-alpha5</PkgFsCheck_Xunit>
     <Pkgcoverlet_collector Condition=" '$(Pkgcoverlet_collector)' == '' ">/Users/alexandermolholm/.nuget/packages/coverlet.collector/1.3.0</Pkgcoverlet_collector>
   </PropertyGroup>
 </Project>

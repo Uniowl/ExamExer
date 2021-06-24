@@ -24,3 +24,8 @@
 /Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/Factorial/Factorial/obj/Debug/net5.0/Factorial.dll
 /Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/Factorial/Factorial/obj/Debug/net5.0/Factorial.pdb
 /Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/Factorial/Factorial/obj/Debug/net5.0/Factorial.genruntimeconfig.cache
+/Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/Factorial/Factorial/bin/Debug/net5.0/nunit.framework.dll
+/Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/Factorial/Factorial/bin/Debug/net5.0/xunit.abstractions.dll
+/Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/Factorial/Factorial/bin/Debug/net5.0/xunit.assert.dll
+/Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/Factorial/Factorial/bin/Debug/net5.0/xunit.core.dll
+/Users/alexandermolholm/Documents/IKT/6. Semester/AFP/ExamExer/Factorial/Factorial/bin/Debug/net5.0/xunit.execution.dotnet.dll
